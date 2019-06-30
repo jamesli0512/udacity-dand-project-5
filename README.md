@@ -50,17 +50,23 @@ The original Bay Wheels's trip dataset contains 2114592 rides and 16 features. I
 ## Summary of Findings
 
 > Most bike riding activities happened in **San Francisco area**. This is make sense because SF is the first location of GoBike. Among the **2114592** bike activity in df_clean, only **65 inter-area rides**.
+
 > All of the rides are between SF and oakland across the Bay Bridge and **58 trips (~90%)** are from subscribers.
+
 > From **`duration`**, **`member_age`** vs.  **`user_gender`**, **`metro_area`** by **`user_type`** graph, several conclusion can be made:
 01. **Subscribers** have **shorter and more concentrated duration range** than **Customers**
 02. **San Jose's Subscriber** population is the **youngest**
 03. **East Bay's Subscriber** have the **shortest duration**
+
 > Majority of users is from **age groups 20s and 30s**. Although San Francisco metro area has most rides but the two largest user populations 20s and 30s age groups have the **lowest subscription ratio**.
+
 > **San Jose**, as the last area of GoBike started operation, has the **lowest total number of rides for each month**. However, it has the **highest user's subscription ratios for each month**.
+
 > **San Jose**'s hourly distribution **does not exhibits the "2 peaks" pattern** as San Francisco and East Bay. Usages from **8am to 3pm** is rather **flat**. I think the reason behind is the flexible working hours for companies in the San Jose area, people don't have to follow the 9am-to-5pm work schedule.
 
 
 ## Key Insights for Presentation
 
 > **Subscriber**'s most frequently used time is **weekday around 7-9am and 4-6pm**, which are the commute times. **Customer**'s most frequently used time, beside the commute times, is **weekend 12pm-4pm**. <br>
+
 > **Subscribers** use the bike mostly for commute to work. **Customers** use the bike during weekend for leisure.
