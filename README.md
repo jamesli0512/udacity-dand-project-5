@@ -3,6 +3,7 @@
 ## by Haotongli
 ## June 29 2019
 
+![alt text](https://www.motivateco.com/wp-content/uploads/2016/10/Ford-GoBike_MTVweb-e1477585231292.jpg)
 
 ## Dataset
 ### Structure of dataset
